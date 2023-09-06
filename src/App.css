@@ -1,0 +1,8 @@
+.home-banner-bg{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-color: #111;
+    background-blend-mode: overlay;
+    opacity: 0.8;
+}

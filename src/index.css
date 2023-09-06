@@ -1,3 +1,12 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.home-banner-bg {
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-position: center !important;
+    background-color: #111 !important;
+    background-blend-mode: overlay;
+    opacity: 0.857 !important;
+}
